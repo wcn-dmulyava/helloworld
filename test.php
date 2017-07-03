@@ -1,3 +1,4 @@
 <?
 
-echo "Hello World";
+echo "Hello World!";
+echo "Today is a great day";
